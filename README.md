@@ -1,6 +1,6 @@
 # RanaProject
 Expense Reimbursement System
-This project was generated with Angular CLI version 13.2.5. This is a simple web application where employees are able to submit a reimbursment request for the manager to review.
+This project was generated with Angular CLI version 13.2.5. Javalin, Java, TypeScript, Maven, PostgreSQL, Hibernate, JUnitThis is a simple web application where employees are able to submit a reimbursment request for the manager to review.
 
 Features
 List of features ready and TODOs for future development
